@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 類篇
-#+DATE: 2017-03-23 10:52:45.955454
+#+DATE: 2017-03-23 10:52:46.335137
 #+PROPERTY: ID KR1j0029
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR1j0029_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -204,7 +204,7 @@
 ¶
 　　文十一　　　　　重音二¶
 ¶
-　　□東楚名𦈢曰□象形凡□之類皆从□古作□(側詞切文¶
+　　□東楚名缶曰□象形凡□之類皆从□古作□(側詞切文¶
 二)¶
 ¶
 　　□(馮無切博雅□&KR2493;畚也文一)□□(龍都切説文□也古作□文二)□(堅奚切博雅□□筲&KR1930;也¶

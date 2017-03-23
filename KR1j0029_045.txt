@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 類篇
-#+DATE: 2017-03-23 10:52:46.011725
+#+DATE: 2017-03-23 10:52:46.391511
 #+PROPERTY: ID KR1j0029
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 45
 <pb:KR1j0029_WYG_045-1a>¶
 　　欽定四庫全書¶
@@ -54,7 +54,7 @@
 ¶
 　　户部四百三十九　　門部四百四十¶
 ¶
-　　耳部四百四十一　　&KR1203;部四百四十二¶
+　　耳部四百四十一　　臣部四百四十二¶
 ¶
 <pb:KR1j0029_WYG_045-2b>¶
 　　手部四百四十三　　□部四百四十四¶
